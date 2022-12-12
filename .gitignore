@@ -41,6 +41,7 @@ package-lock.json
 .env
 .env.dev
 .env.test
+.env.prod
 
 # docker
 .dbdata
